@@ -1,6 +1,6 @@
 <!-- Animación principal grande y decorada -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=500&size=45&duration=4000&pause=500&color=FF1493&center=true&vCenter=true&width=950&lines=%F0%9F%A4%97+Hola%2C+soy+Vanessa+%F0%9F%A6%8B;%F0%9F%92%95+Desarrolladora+de+Software+morena+%F0%9F%8C%B8;%E2%9C%A8+HTML5+%7C+CSS3+%7C+JS+%7C+Node.js+%7C+C%2B%2B+%F0%9F%92%96" alt="Animacion gigante de Vanessa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=500&size=45&duration=4000&pause=500&color=FF1493&center=true&vCenter=true&width=950&lines=%F0%9F%A4%97+Hola%2C+soy+Vanessa+%F0%9F%A6%8B;%F0%9F%92%95+Desarrolladora+de+Software+%F0%9F%8C%B8;%E2%9C%A8+HTML5+%7C+CSS3+%7C+JS+%7C+Node.js+%7C+C%2B%2B+%F0%9F%92%96" alt="Animacion gigante de Vanessa" />
 </p>
 
 <p align="center">
